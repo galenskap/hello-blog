@@ -1,0 +1,4 @@
+baseURL = "http://www.deborahjean.fr/blog/"
+languageCode = "fr-fr"
+title = "Hello blog"
+theme = "slim"
